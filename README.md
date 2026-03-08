@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Jayakumar AKA Dhilla👋
 
-<!--
-**Dhilla001/Dhilla001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Trainee | Penetration Tester  
+Passionate about Web Application Security, Bug Bounty Hunting, and Red Teaming.
+I enjoy finding vulnerabilities and helping build secure systems.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech Student – St. Joseph's Institute of Technology
+- 🔐 Cybersecurity Trainee
+- 🛡️ Experience in Penetration Testing & Security Operations
+- 🐞 Interested in Bug Bounty and Web Security
+- 📍 Based in India
+
+## 🛠️ Security Tools & Technologies
+
+- Burp Suite
+- Nmap
+- Wireshark
+- Metasploit
+- JSQL-Injection(SQLMap)
+- Postman
+- Wazuh
+- Splunk
+- Eramba(GRC Tool)
+- OWASP ZAP
+- Kali Linux
+
+**Languages**
+- Python
+- Bash Scripting
+- C/C++
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/jayakumar-j-16623a250  
+Email: jackson337079@gmail.com
